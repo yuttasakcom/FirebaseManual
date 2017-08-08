@@ -3,7 +3,7 @@
     <div class="row justify-content-center">
       <ul class="nav nav-tabs">
         <li class="nav-item">
-          <router-link class="nav-link active" to=""><i class="fa fa-sign-in" aria-hidden="true"></i> Authenticate</router-link>
+          <router-link class="nav-link active" to="/"><i class="fa fa-sign-in" aria-hidden="true"></i> Authenticate</router-link>
         </li>
         <li class="nav-item">
           <router-link class="nav-link" to=""><i class="fa fa-list" aria-hidden="true"></i> Todo List</router-link>
